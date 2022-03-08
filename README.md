@@ -1,6 +1,6 @@
-# Fractal
+# Fractals
 
-Fractal is like string replace in 2D.
+"Fractals" is like string replace in 2D.
 
 ### Initialisation
 
