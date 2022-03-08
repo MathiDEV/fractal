@@ -1,0 +1,8 @@
+*.o
+*.out
+*.lib
+*.a
+*.gcno
+*.gcda
+.vscode
+.idea
